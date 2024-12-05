@@ -49,8 +49,7 @@
 
   <div style="max-width: 100%; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api?username=cfrBernard&show_icons=true&count_private=true&theme=radical" style="width: 100%; height: auto;" alt="2024 Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfrBernard&theme=radical" style="width: 100%; height: auto;" alt="Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfrBernard&layout=compact&theme=radical" style="width: 100%; height: auto;" alt="Repos">
+
   </div>
   
 </p>
