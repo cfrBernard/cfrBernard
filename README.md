@@ -1,7 +1,5 @@
 <p align="center">
 
-
-  
   <span style="display: inline-block; margin-right: 10px;">
     <img src="img/CS.svg" width="50"/>
   </span>
@@ -44,12 +42,5 @@
   <span style="display: inline-block; margin-right: 10px;">
     <img src="img/Windows-Dark.svg" width="50"/>
   </span>
-
-  ---
-
-  <div style="max-width: 100%; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api?username=cfrBernard&show_icons=true&count_private=true&theme=radical" style="width: 100%; height: auto;" alt="2024 Stats">
-
-  </div>
   
 </p>
