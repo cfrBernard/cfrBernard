@@ -1,5 +1,4 @@
 ---
-<br>
 <p align="center">
 
   <span style="display: inline-block; margin-right: 15px;">
